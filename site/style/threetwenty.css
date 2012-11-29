@@ -1,0 +1,7 @@
+@media only screen 
+and (max-width : 320px) {
+	/* Your styles go here... */
+	.mypic{
+		display: none;
+	}
+}
